@@ -1,0 +1,93 @@
+
+    .carousel-item img {
+      height: 400px; /* Altura média das imagens no carrossel */
+      object-fit: cover; /* Ajusta a imagem para cobrir o espaço sem distorcer */
+      width: 100%; /* A imagem ocupará toda a largura do carrossel */
+    }
+    .section-content {
+     
+      text-align: center;
+      padding: 40px 20px;
+      background-color:#ebdcca;;
+    }
+    .section-content h1 {
+      margin-bottom: 20px;
+    }
+/* titulo */
+    h1{
+
+      font-family: 'Bungee';
+      font-size: 50px;
+      color: #5d2e07;
+      
+    }
+    /* fundo do site */
+    body,main,section{
+      background-color: #ebdcca;
+    }
+    /* fonte do texto interno */
+  p{font-family: 'lora';
+  font-size: 16 px;
+  color: black;
+  }
+   /* subtítulo */
+h2{ 
+  font-family: 'bebas neue';
+  color:#5d2e07
+}
+/* botão card */
+  .btn-success{
+     font-family: 'bebas neue';
+  }
+  /* fundo navegador */
+nav{
+  background-color: #5d2e07;
+}
+/* fundo navegador */
+.dropdown{
+  background-color: #5d2e07;
+  font-family: 'bebas neue';
+  /* fundo navegador */
+}
+.nav-item{
+  font-family: 'bebas neue';
+  background-color: #5d2e07;
+  font-size: 18px;
+
+}
+h3{
+  font-family: 'bebas neue';
+  color:#fff
+  ;
+}
+/* fundo do rodapé */
+footer{ background-color: #5d2e07;
+  font-family: 'bebas neue';
+  text-align: center;
+  color:#fff
+
+}
+.aba{background-color: #ebdcca;
+
+}
+/* título do card */
+.card-title{
+  font-family: 'bebas neue';
+  color:#5d2e07
+}
+/* texto do card */
+.card-text{
+  font-family: 'lora';
+  font-size: 16 px;
+  color: black;
+  text-align: center;
+}
+.card {
+  background-color: #ebdcca;
+  margin-bottom: 18px; /* Margem uniforme para todos os cards */
+  padding: 18px; /* Espaçamento interno */
+}
+.card-text {
+  max-height: 60px; /* Limite de altura */
+}
+  
